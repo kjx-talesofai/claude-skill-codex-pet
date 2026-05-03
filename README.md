@@ -1,12 +1,27 @@
-# Hatch Pet for Claude Code
+<p align="center">
+  <img src="https://camo.githubusercontent.com/3e816c82f93843017c24bcc6cc25a3e8f6becd41c6435e39de4dbc11b0ca1485/68747470733a2f2f6173736574732e687970657273616d706c696e672e636f6d2f68797065722d73616d706c696e672d322e6a7067" alt="hyper-sampling" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/kjx-talesofai/claude-skill-hypersampling/master/neta_logo.png" alt="neta.art" height="60"/>
+</p>
 
-**A generic, image-generation-agnostic adaptation of the Codex pet hatching skill.**
+<h1 align="center">Hatch Pet for Claude Code</h1>
 
-Create, repair, validate, preview, and package Codex-compatible animated pet spritesheets from character art, screenshots, generated images, or visual references. Works with any coding agent that supports image generation tools.
+<p align="center"><strong>A generic, image-generation-agnostic adaptation of the Codex pet hatching skill.</strong></p>
+
+<p align="center">
+  Create, repair, validate, preview, and package Codex-compatible animated pet spritesheets.<br>
+  Works with any coding agent that supports image generation tools.
+</p>
 
 ---
 
-**[Jiaxin Kou 寇佳新](https://www.hypersampling.com)** · **[Neta Art 捏Ta](https://www.neta.art)** · [GitHub @kjx-talesofai](https://github.com/kjx-talesofai)
+<p align="center">
+  <strong><a href="https://www.hypersampling.com">Jiaxin Kou 寇佳新</a></strong>
+  &nbsp;·&nbsp;
+  <strong><a href="https://www.neta.art">Neta Art 捏Ta</a></strong>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/kjx-talesofai">GitHub @kjx-talesofai</a>
+</p>
 
 ---
 
@@ -62,6 +77,12 @@ The skill will:
 
 See `SKILL.md` for the full workflow, prompt engineering guide, and subagent delegation patterns.
 
+## Example Pets Made With This Skill
+
+| Pet | Preview | Repo |
+|---|---|---|
+| **奈塔 Neta** | AI assistant from [Neta Art](https://www.neta.art) | [kjx-talesofai/Neta-Codex-Pet](https://github.com/kjx-talesofai/Neta-Codex-Pet) |
+
 ## Repo Structure
 
 ```
@@ -105,4 +126,6 @@ The original work and this derivative are licensed under the [Apache License, Ve
 
 ---
 
-© 2026 Jiaxin Kou 寇佳新 · Neta Art 捏Ta
+<p align="center">
+  © 2026 <a href="https://www.hypersampling.com">Jiaxin Kou 寇佳新</a> · <a href="https://www.neta.art">Neta Art 捏Ta</a>
+</p>
